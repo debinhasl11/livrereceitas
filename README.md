@@ -2,4 +2,5 @@
 
 ### Ola! Bem Vindo ao nosso livro de receitas!
 
-- Frango a Passarinho
+- Frango a Passarinho;
+- Lasanha de Carne.
